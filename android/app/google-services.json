@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "509791412313",
+    "project_id": "hello-a850b",
+    "storage_bucket": "hello-a850b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509791412313:android:e779129062fbfd9cff5148",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509791412313-88m5nuc1dbt9vdti5ccou7kctirbaipe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBODgPLYYVkiRMyuiC7R9fecewMnY6aPJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509791412313-88m5nuc1dbt9vdti5ccou7kctirbaipe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509791412313-7hhbgejm4fp67rp32pim46euu45lj7ho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helloWorld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
